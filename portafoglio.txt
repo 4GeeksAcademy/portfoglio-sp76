@@ -2,3 +2,5 @@ Las tecnologias que manejo son:
 
 HTML
 CSS
+Bootstrap
+React
